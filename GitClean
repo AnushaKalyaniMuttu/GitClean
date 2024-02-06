@@ -1,0 +1,4 @@
+git clean -f -d
+
+//-f for untracked files
+//-d for untracted dictories
